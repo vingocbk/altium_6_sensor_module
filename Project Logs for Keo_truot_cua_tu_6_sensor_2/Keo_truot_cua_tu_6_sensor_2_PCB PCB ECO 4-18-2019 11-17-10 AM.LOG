@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=GND Pin=Q3-1
+Removed Pin From Net: NetName=NetJ3_1 Pin=Q3-2
+Removed Pin From Net: NetName=GND Pin=Q4-1
+Removed Pin From Net: NetName=NetJ3_3 Pin=Q4-2
+Change Component DesignItemId : Designator=Q4 Old DesignItemId=C1815 New DesignItemId=IRF7203
+Change Component DesignItemId : Designator=Q3 Old DesignItemId=C1815 New DesignItemId=IRFBC40S
+Change Component Footprint: Designator=Q3 Old Footprint=SOT23B New Footprint=D2PAK_N
+Change Component Footprint: Designator=Q4 Old Footprint=SOT23B New Footprint=SO-8_N
+Change Component Comment : Designator=Q4 Old Comment=C1815 New Comment=IRF7203
+Change Component Comment : Designator=Q3 Old Comment=C1815 New Comment=IRFBC40S
+Added Component: Designator=Q5(D2PAK_L)
+Added Component: Designator=Q6(D2PAK_M)
+Added Component: Designator=Q7(SOT23B)
+Added Component: Designator=Q8(SOT23B)
+Added Pin To Net: NetName=GND Pin=Q3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=Q4-1
+Added Pin To Net: NetName=NetJ3_3 Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-3
+Added Net: Name=NetQ4_2
+Added Pin To Net: NetName=NetQ4_5 Pin=Q4-5
+Added Pin To Net: NetName=NetQ4_5 Pin=Q4-6
+Added Pin To Net: NetName=NetQ4_5 Pin=Q4-7
+Added Pin To Net: NetName=NetQ4_5 Pin=Q4-8
+Added Net: Name=NetQ4_5
+Added Pin To Net: NetName=NetQ7_3 Pin=Q3-3
+Added Pin To Net: NetName=NetQ7_3 Pin=R6-2
+Added Net: Name=NetQ7_3
+Added Pin To Net: NetName=NetQ8_3 Pin=Q4-3
+Added Pin To Net: NetName=NetQ8_3 Pin=R7-2
+Added Net: Name=NetQ8_3
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component Q5 IRFBC40S
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component Q6 IRFBC40S
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component Q7 C1815
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component Q8 C1815

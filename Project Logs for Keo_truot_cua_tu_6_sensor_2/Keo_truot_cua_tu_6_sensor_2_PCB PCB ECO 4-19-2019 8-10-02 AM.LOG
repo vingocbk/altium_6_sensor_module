@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=LED NewDesignator=LED1
+Added Component: Designator=SW1(SW1-DIP)
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component SW1 SW

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=LEDB Pin=M1-36
+Removed Pin From Net: NetName=LEDR Pin=M1-37
+Added Pin To Net: NetName=LEDR Pin=M1-36
+Added Pin To Net: NetName=LEDB Pin=M1-37

@@ -1,0 +1,51 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=flash? NewDesignator=flash1
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=LED? NewDesignator=LED1
+Change Component Designator: OldDesignator=M? NewDesignator=M1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=Q? NewDesignator=Q3
+Change Component Designator: OldDesignator=Q? NewDesignator=Q4
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=Reset? NewDesignator=Reset1
+Change Net Name : Old Net Name=Netflash?_2 New Net Name=Netflash1_2
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetJ2_1
+Change Net Name : Old Net Name=NetJ?_2 New Net Name=NetJ1_2
+Change Net Name : Old Net Name=NetJ?_3 New Net Name=NetJ2_3
+Change Net Name : Old Net Name=NetLED?_1 New Net Name=NetLED1_1
+Change Net Name : Old Net Name=NetLED?_2 New Net Name=NetLED1_2
+Change Net Name : Old Net Name=NetM?_3 New Net Name=NetM1_3
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ1_1
+Change Net Name : Old Net Name=NetQ?_3 New Net Name=NetQ2_3
+Change Net Name : Old Net Name=NetQ?_3 New Net Name=NetQ3_3
+Change Net Name : Old Net Name=NetQ?_3 New Net Name=NetQ4_3
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component C2 JP8
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component J2 62000511622
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component J3 USB-5
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component J4 62000211622
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component Q2 A1015
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component Q3 C1815
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component Q4 C1815
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R2 10K
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R3 10K
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R4 10K
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R5 10K
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R6 1K
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R7 1K
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R8 100K
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R9 100K
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R10 10K

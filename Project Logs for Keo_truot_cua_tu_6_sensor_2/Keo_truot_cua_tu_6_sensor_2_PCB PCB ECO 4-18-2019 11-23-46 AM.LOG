@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetJ1_2 Pin=Q1-2
+Removed Pin From Net: NetName=GND Pin=Q3-1
+Removed Pin From Net: NetName=NetJ3_1 Pin=Q3-2
+Removed Member From Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Q7
+Change Component DesignItemId : Designator=Q1 Old DesignItemId=IRF540S New DesignItemId=IRLR8503
+Change Component DesignItemId : Designator=Q5 Old DesignItemId=JANTX2N7218U New DesignItemId=C1815
+Change Component Footprint: Designator=Q1 Old Footprint=D2PAK_N New Footprint=TO-252AA_N
+Change Component Footprint: Designator=Q5 Old Footprint=SMD-1 New Footprint=SOT23B
+Change Component Comment : Designator=Q1 Old Comment=IRF540S New Comment=IRLR8503
+Change Component Comment : Designator=Q5 Old Comment=JANTX2N7218U New Comment=C1815
+Change Component Designator: OldDesignator=Q5 NewDesignator=Q6
+Added Component: Designator=Q5(SOT23B)
+Added Pin To Net: NetName=NetJ1_2 Pin=Q1-4
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-3
+Added Pin To Net: NetName=GND Pin=Q3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=Q3-2
+Change Net Name : Old Net Name=NetQ7_3 New Net Name=NetQ6_3
+Added Pin To Net: NetName=NetQ5_3 Pin=Q3-3
+Added Pin To Net: NetName=NetQ5_3 Pin=R6-2
+Added Net: Name=NetQ5_3

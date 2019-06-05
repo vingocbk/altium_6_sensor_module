@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=NetJ?_1 Pin=J?-1
+Removed Pin From Net: NetName=GND Pin=J?-2
+Removed Pin From Net: NetName=NetJ?_3 Pin=J?-3
+Removed Pin From Net: NetName=FG Pin=J?-4
+Removed Pin From Net: NetName=24V Pin=J?-5
+Added Component: Designator=J?(62000511622)
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-3
+Added Pin To Net: NetName=FG Pin=J?-4
+Added Pin To Net: NetName=24V Pin=J?-5
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component C? JP8
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component J? 62000511622
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component J? 62000211622
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component J? 62000211722
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component Q? A1015
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component Q? C1815
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component Q? C1815
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R? 100K
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R? 100K
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R? 1K
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R? 1K

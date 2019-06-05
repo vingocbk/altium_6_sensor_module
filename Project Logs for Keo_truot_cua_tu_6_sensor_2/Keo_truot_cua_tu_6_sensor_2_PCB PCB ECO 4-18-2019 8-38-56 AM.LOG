@@ -1,0 +1,16 @@
+Added Component: Designator=M1(ESP32S)
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Pin To Net: NetName=3.3V Pin=M1-2
+Added Pin To Net: NetName=NetM1_3 Pin=M1-3
+Added Pin To Net: NetName=NetLED1_1 Pin=M1-12
+Added Pin To Net: NetName=GND Pin=M1-15
+Added Pin To Net: NetName=IO15 Pin=M1-23
+Added Pin To Net: NetName=IO2 Pin=M1-24
+Added Pin To Net: NetName=Netflash1_2 Pin=M1-25
+Added Pin To Net: NetName=T0 Pin=M1-26
+Added Pin To Net: NetName=IO5 Pin=M1-29
+Added Pin To Net: NetName=TX Pin=M1-34
+Added Pin To Net: NetName=RX Pin=M1-35
+Added Pin To Net: NetName=GND Pin=M1-38
+Added Pin To Net: NetName=GND Pin=M1-101
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component M1 ESP32S_Module

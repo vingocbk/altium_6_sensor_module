@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=J4-3
+Change Component DesignItemId : Designator=J4 Old DesignItemId=62000311622 New DesignItemId=62000211622
+Change Component DesignItemId : Designator=J3 Old DesignItemId=620105131822 New DesignItemId=62000511622
+Change Component Footprint: Designator=J4 Old Footprint=62000311622 New Footprint=62000211622
+Change Component Footprint: Designator=J3 Old Footprint=620105131822 New Footprint=62000511622
+Change Component Comment : Designator=J4 Old Comment=62000311622 New Comment=62000211622
+Change Component Comment : Designator=J3 Old Comment=620105131822 New Comment=62000511622
+Added Component: Designator=R10(RES-SMD-0805)
+Added Pin To Net: NetName=ANALOG Pin=M1-6
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=ANALOG Pin=R10-2
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R10 10K

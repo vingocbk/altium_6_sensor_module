@@ -1,0 +1,86 @@
+Added Component: Designator=C1(JP8-D1T)
+Added Component: Designator=C2(JP8-D1T)
+Added Component: Designator=flash1(SW-DIP1)
+Added Component: Designator=J2(USB-M1)
+Added Component: Designator=LED1(LED-0805-Blue)
+Added Component: Designator=Q2(SOT23B)
+Added Component: Designator=Q3(SOT23B)
+Added Component: Designator=Q4(SOT23B)
+Added Component: Designator=R1(RES-SMD-0805)
+Added Component: Designator=R2(RES-SMD-0805)
+Added Component: Designator=R3(RES-SMD-0805)
+Added Component: Designator=R4(RES-SMD-0805)
+Added Component: Designator=R5(RES-SMD-0805)
+Added Component: Designator=R6(RES-SMD-0805)
+Added Component: Designator=R7(RES-SMD-0805)
+Added Component: Designator=R8(RES-SMD-0805)
+Added Component: Designator=R9(RES-SMD-0805)
+Added Component: Designator=Reset1(SW1-SMD)
+Added Pin To Net: NetName=24V Pin=C1-1
+Added Pin To Net: NetName=12V Pin=C1-2
+Added Pin To Net: NetName=5V Pin=C1-3
+Added Pin To Net: NetName=3.3V Pin=C1-4
+Added Pin To Net: NetName=O1 Pin=C1-5
+Added Pin To Net: NetName=O2 Pin=C1-6
+Added Pin To Net: NetName=O3 Pin=C1-7
+Added Pin To Net: NetName=GND Pin=C1-8
+Added Pin To Net: NetName=O4 Pin=C2-6
+Added Pin To Net: NetName=O5 Pin=C2-7
+Added Pin To Net: NetName=O6 Pin=C2-8
+Added Pin To Net: NetName=GND Pin=flash1-1
+Added Pin To Net: NetName=Netflash1_2 Pin=flash1-2
+Added Pin To Net: NetName=5V Pin=J2-1
+Added Pin To Net: NetName=RX Pin=J2-2
+Added Pin To Net: NetName=TX Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=Q3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Pin To Net: NetName=GND Pin=Q4-1
+Added Pin To Net: NetName=NetJ3_3 Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_3 Pin=Q4-3
+Added Pin To Net: NetName=Netflash1_2 Pin=R1-1
+Added Pin To Net: NetName=3.3V Pin=R1-2
+Added Pin To Net: NetName=3.3V Pin=R2-1
+Added Pin To Net: NetName=NetM1_3 Pin=R2-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R3-1
+Added Pin To Net: NetName=12V Pin=R3-2
+Added Pin To Net: NetName=NetQ2_3 Pin=R4-1
+Added Pin To Net: NetName=LED Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=NetLED1_2 Pin=R5-2
+Added Pin To Net: NetName=PWM Pin=R6-1
+Added Pin To Net: NetName=NetQ3_3 Pin=R6-2
+Added Pin To Net: NetName=FR Pin=R7-1
+Added Pin To Net: NetName=NetQ4_3 Pin=R7-2
+Added Pin To Net: NetName=NetJ3_1 Pin=R8-1
+Added Pin To Net: NetName=5V Pin=R8-2
+Added Pin To Net: NetName=NetJ3_3 Pin=R9-1
+Added Pin To Net: NetName=5V Pin=R9-2
+Added Pin To Net: NetName=NetM1_3 Pin=Reset1-1
+Added Pin To Net: NetName=GND Pin=Reset1-2
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component C1 JP8
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component C2 JP8
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component flash1 SW
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component J2 USB-5
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component LED1 LED
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component Q2 A1015
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component Q3 C1815
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component Q4 C1815
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R1 10K
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R2 10K
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R3 10K
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R4 10K
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R5 10K
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R6 1K
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R7 1K
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R8 100K
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R9 100K
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component Reset1 SW

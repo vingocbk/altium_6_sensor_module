@@ -1,0 +1,111 @@
+Removed Pin From Net: NetName=3.3V Pin=J4-1
+Removed Pin From Net: NetName=ANALOG Pin=J4-2
+Removed Pin From Net: NetName=NetJ1_2 Pin=Q1-4
+Removed Pin From Net: NetName=GND Pin=Q2-2
+Removed Pin From Net: NetName=GND Pin=Q3-1
+Removed Pin From Net: NetName=NetJ3_1 Pin=Q3-2
+Removed Pin From Net: NetName=GND Pin=Q4-1
+Removed Pin From Net: NetName=NetJ3_3 Pin=Q4-2
+Removed Pin From Net: NetName=12V Pin=R3-2
+Removed Pin From Net: NetName=LED Pin=R4-2
+Removed Pin From Net: NetName=NetM1_10 Pin=R5-1
+Removed Pin From Net: NetName=3.3V Pin=R5-2
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=NetLED1_2 Pin=R6-2
+Removed Pin From Net: NetName=PWM Pin=R7-1
+Removed Pin From Net: NetName=FR Pin=R8-1
+Removed Pin From Net: NetName=NetJ3_1 Pin=R9-1
+Removed Pin From Net: NetName=5V Pin=R9-2
+Change Component DesignItemId : Designator=J1 Old DesignItemId=62000211722 New DesignItemId=653004117322
+Change Component DesignItemId : Designator=Q2 Old DesignItemId=A1015 New DesignItemId=IRF7101
+Change Component DesignItemId : Designator=Q3 Old DesignItemId=C1815 New DesignItemId=A1015
+Change Component DesignItemId : Designator=Q4 Old DesignItemId=C1815 New DesignItemId=A1015
+Change Component DesignItemId : Designator=Q1 Old DesignItemId=IRLR8503 New DesignItemId=IRF7101
+Change Component Footprint: Designator=Q2 Old Footprint=SOT23B New Footprint=SO-8_N
+Change Component Footprint: Designator=Q1 Old Footprint=TO-252AA_N New Footprint=SO-8_N
+Change Component Comment : Designator=R9 Old Comment=100K New Comment=1K
+Change Component Comment : Designator=J1 Old Comment=62000211722 New Comment=653004117322
+Change Component Comment : Designator=Q2 Old Comment=A1015 New Comment=IRF7101
+Change Component Comment : Designator=Q3 Old Comment=C1815 New Comment=A1015
+Change Component Comment : Designator=Q4 Old Comment=C1815 New Comment=A1015
+Change Component Comment : Designator=Q1 Old Comment=IRLR8503 New Comment=IRF7101
+Change Component Designator: OldDesignator=J5 NewDesignator=J4
+Change Component Designator: OldDesignator=LED NewDesignator=LED1
+Change Component Designator: OldDesignator=R10 NewDesignator=R14
+Change Component Designator: OldDesignator=R11 NewDesignator=R15
+Change Component Description : Designator=Q3 Old Description=NPN 600mW, ECB New Description=PNP 600mW, ECB
+Change Component Description : Designator=Q4 Old Description=NPN 600mW, ECB New Description=PNP 600mW, ECB
+Change Component Description : Designator=J1 Old Description=WR-WTB 2.00mm Male Horizontal Shrouded Header, 2p New Description=WR-WTB 1.25mm Male Horizontal Shrouded Header, 4p
+Change Component Library : Designator=J1 Old Library=Header2.0.IntLib New Library=6530xx114822 (rev17a).IntLib
+Added Component: Designator=J5(62000211622)
+Added Component: Designator=Q5(SOT23B)
+Added Component: Designator=Q6(SOT23B)
+Added Component: Designator=Q7(SOT23B)
+Added Component: Designator=R10(RES-SMD-0805)
+Added Component: Designator=R11(RES-SMD-0805)
+Added Component: Designator=R12(RES-SMD-0805)
+Added Component: Designator=R13(RES-SMD-0805)
+Added Pin To Net: NetName=3.3V Pin=J5-1
+Added Pin To Net: NetName=ANALOG Pin=J5-2
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=NetJ1_2 Pin=Q1-7
+Added Pin To Net: NetName=NetJ1_2 Pin=Q1-8
+Added Pin To Net: NetName=GND Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=GND Pin=Q5-2
+Added Pin To Net: NetName=GND Pin=Q3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=Q4-1
+Added Pin To Net: NetName=NetJ3_3 Pin=Q4-2
+Added Pin To Net: NetName=12V Pin=R3-1
+Added Pin To Net: NetName=12V Pin=R4-1
+Added Pin To Net: NetName=12V Pin=R5-1
+Added Pin To Net: NetName=NetM1_10 Pin=R6-1
+Added Pin To Net: NetName=3.3V Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=NetLED1_2 Pin=R6-2
+Added Pin To Net: NetName=PWM Pin=R7-1
+Added Pin To Net: NetName=FR Pin=R8-1
+Added Pin To Net: NetName=NetJ3_1 Pin=R9-1
+Added Pin To Net: NetName=5V Pin=R9-2
+Added Pin To Net: NetName=LEDB Pin=R7-1
+Added Net: Name=LEDB
+Added Pin To Net: NetName=LEDG Pin=R9-1
+Added Net: Name=LEDG
+Added Pin To Net: NetName=LEDR Pin=R8-1
+Added Net: Name=LEDR
+Added Pin To Net: NetName=NetJ1_3 Pin=Q1-5
+Added Pin To Net: NetName=NetJ1_3 Pin=Q1-6
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=NetJ1_4 Pin=Q2-7
+Added Pin To Net: NetName=NetJ1_4 Pin=Q2-8
+Added Net: Name=NetJ1_4
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q3-1
+Added Pin To Net: NetName=NetQ1_2 Pin=R3-2
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ1_4 Pin=Q1-4
+Added Pin To Net: NetName=NetQ1_4 Pin=Q4-1
+Added Pin To Net: NetName=NetQ1_4 Pin=R4-2
+Added Net: Name=NetQ1_4
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q5-1
+Added Pin To Net: NetName=NetQ2_2 Pin=R5-2
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ5_3 Pin=Q5-3
+Added Pin To Net: NetName=NetQ5_3 Pin=R9-2
+Added Net: Name=NetQ5_3
+Added Pin To Net: NetName=NetQ6_3 Pin=Q3-3
+Added Pin To Net: NetName=NetQ6_3 Pin=R7-2
+Added Net: Name=NetQ6_3
+Added Pin To Net: NetName=NetQ7_3 Pin=Q4-3
+Added Pin To Net: NetName=NetQ7_3 Pin=R8-2
+Added Net: Name=NetQ7_3
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component Q5 A1015
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component Q6 C1815
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component Q7 C1815
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R12 1K
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R13 100K
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R14 100K
+Added Member To Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Component R15 10K

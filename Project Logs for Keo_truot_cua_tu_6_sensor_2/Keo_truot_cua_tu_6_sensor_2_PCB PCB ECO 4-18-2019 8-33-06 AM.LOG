@@ -1,0 +1,53 @@
+Added Component: Designator=J1(62000211722)
+Added Component: Designator=J3(620105131822)
+Added Component: Designator=J4(62000311622)
+Added Component: Designator=Q1(D2PAK_N)
+Added Component: Designator=U1(ESP 32)
+Added Pin To Net: NetName=3.3V Pin=J4-1
+Added Net: Name=3.3V
+Added Net: Name=5V
+Added Pin To Net: NetName=12V Pin=J1-1
+Added Net: Name=12V
+Added Pin To Net: NetName=24V Pin=J3-5
+Added Net: Name=24V
+Added Pin To Net: NetName=ANALOG Pin=J4-2
+Added Net: Name=ANALOG
+Added Pin To Net: NetName=FG Pin=J3-4
+Added Net: Name=FG
+Added Net: Name=FR
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Net: Name=GND
+Added Net: Name=IO2
+Added Net: Name=IO5
+Added Net: Name=IO15
+Added Net: Name=LED
+Added Net: Name=Netflash1_2
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=Q1-2
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Net: Name=NetJ3_1
+Added Pin To Net: NetName=NetJ3_3 Pin=J3-3
+Added Net: Name=NetJ3_3
+Added Net: Name=NetLED1_1
+Added Net: Name=NetLED1_2
+Added Net: Name=NetM1_3
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Net: Name=NetQ1_1
+Added Net: Name=NetQ2_3
+Added Net: Name=NetQ3_3
+Added Net: Name=NetQ4_3
+Added Net: Name=O1
+Added Net: Name=O2
+Added Net: Name=O3
+Added Net: Name=O4
+Added Net: Name=O5
+Added Net: Name=O6
+Added Net: Name=PWM
+Added Net: Name=RX
+Added Net: Name=T0
+Added Net: Name=TX
+Added Class: Name=Keo_truot_cua_tu_6_sensor_2_Schematic
+Added Room: Name=Keo_truot_cua_tu_6_sensor_2_Schematic

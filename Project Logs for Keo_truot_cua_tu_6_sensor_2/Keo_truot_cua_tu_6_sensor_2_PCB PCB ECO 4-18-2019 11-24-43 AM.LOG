@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=Keo_truot_cua_tu_6_sensor_2_Schematic Member=Q6
+Change Component DesignItemId : Designator=Q3 Old DesignItemId=IRF7203 New DesignItemId=C1815
+Change Component Footprint: Designator=Q3 Old Footprint=SO-8_N New Footprint=SOT23B
+Change Component Comment : Designator=Q3 Old Comment=IRF7203 New Comment=C1815
+Change Component Designator: OldDesignator=Q6 NewDesignator=Q4
+Change Net Name : Old Net Name=NetQ5_3 New Net Name=NetQ3_3
+Change Net Name : Old Net Name=NetQ6_3 New Net Name=NetQ4_3
